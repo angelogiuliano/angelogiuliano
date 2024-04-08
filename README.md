@@ -1,5 +1,7 @@
 
-![Capture-2024-04-08-155547](https://github.com/angelogiuliano/angelogiuliano/assets/117686551/34ef03f2-a656-4970-9b80-c3a68882b630)
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhxNHFlcmt3OTY3NHAwdm81eXk4cmdiaHNkNnpxNGlwZTFraWdqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="200">
+</p>
 
 - 🌱 I’m currently learning Web Development @EPICODE
 - 👾 Passionate about constant learning, design, web development, gaming
