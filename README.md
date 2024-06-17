@@ -3,7 +3,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhxNHFlcmt3OTY3NHAwdm81eXk4cmdiaHNkNnpxNGlwZTFraWdqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="200">
 </p>
 
-- 🌱 I’m currently learning Web Development @EPICODE
+- 🌱 Junior Web Developer
 - 👾 Passionate about constant learning, design, web development
 
 ## Tech Stack
